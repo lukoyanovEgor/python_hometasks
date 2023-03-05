@@ -9,7 +9,7 @@ def print_result(index, name):
     print(f"[{index}] - {name}")  # Press Ctrl+F8 to toggle the breakpoint.
 
 
-# Press the green button in the gutter to run the script.
+# Press the green button in the gutter to run the script.   
 if __name__ == '__main__':
     i = 1
     input_str = "Python is the best programming language in the world"
